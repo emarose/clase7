@@ -16,3 +16,9 @@ body{
   color: #6a778e;
   padding: 20px;
 }
+
+.container i:hover{
+  font-size: larger;
+  color: #000;
+  cursor: pointer;
+}
